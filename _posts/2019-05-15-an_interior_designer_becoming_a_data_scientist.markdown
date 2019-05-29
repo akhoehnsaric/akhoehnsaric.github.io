@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "An Interior Designer becoming a Data Scientist"
-date:       2019-05-15 22:11:26 +0000
+title:      "An Interior Designer Unicorn"
+date:       2019-05-15 18:11:27 -0400
 permalink:  an_interior_designer_becoming_a_data_scientist
 ---
 
