@@ -1,13 +1,10 @@
 ---
 layout: post
 title:      "Visualizing Design Approvals "
-date:       2019-06-19 00:49:35 +0000
+date:       2019-06-18 20:49:35 -0400
 permalink:  visualizing_design_approvals
 ---
 
-
-The content of your blog post goes here.
-Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are it’s strengths and weaknesses?
 
 
 When a interior designer works on a project, the project goes through many design critque (design crits) before it is finally approved to be sent out to create construction documents, which are the documents used to build a building. Before technology had such a big presence in the design world, a crit would occur in person with either the client or a creative director where it would be reviewed in real time with the design team infront of the critic so there was no waiting period to hear about comments and a designer can immediately continue making changes. 
